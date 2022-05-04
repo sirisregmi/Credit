@@ -1,0 +1,12 @@
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.csproj.AssemblyReference.cache
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.AssemblyInfoInputs.cache
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.AssemblyInfo.cs
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.csproj.CoreCompileInputs.cache
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/bin/Debug/net6.0/Credit.Domain.deps.json
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/bin/Debug/net6.0/Credit.Domain.dll
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/bin/Debug/net6.0/Credit.Domain.pdb
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.dll
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/refint/Credit.Domain.dll
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/Credit.Domain.pdb
+/Users/siris/Documents/dotnet/Credit/Credit.Domain/obj/Debug/net6.0/ref/Credit.Domain.dll

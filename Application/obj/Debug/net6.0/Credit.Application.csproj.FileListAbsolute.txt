@@ -1,0 +1,5 @@
+/Users/siris/Documents/dotnet/Credit/Credit.Application/obj/Debug/net6.0/Credit.Application.csproj.AssemblyReference.cache
+/Users/siris/Documents/dotnet/Credit/Credit.Application/obj/Debug/net6.0/Credit.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siris/Documents/dotnet/Credit/Credit.Application/obj/Debug/net6.0/Credit.Application.AssemblyInfoInputs.cache
+/Users/siris/Documents/dotnet/Credit/Credit.Application/obj/Debug/net6.0/Credit.Application.AssemblyInfo.cs
+/Users/siris/Documents/dotnet/Credit/Credit.Application/obj/Debug/net6.0/Credit.Application.csproj.CoreCompileInputs.cache

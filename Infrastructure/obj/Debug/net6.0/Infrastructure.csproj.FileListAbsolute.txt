@@ -1,0 +1,5 @@
+/Users/siris/Documents/dotnet/Credit/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/siris/Documents/dotnet/Credit/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siris/Documents/dotnet/Credit/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/siris/Documents/dotnet/Credit/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/siris/Documents/dotnet/Credit/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
